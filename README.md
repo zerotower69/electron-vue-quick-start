@@ -6,7 +6,7 @@
 
 克隆我的仓库后
 ```cmd
-git clone 
+git clone git@github.com:zerotower69/electron-vue-quick-start.git
 ```
 
 #### 你可以按照下面的命令使用
