@@ -1,7 +1,13 @@
 # electron-vue-quick-start
 
 > 快速启动你的electron-vue,修复原来的webpack错误并关闭了Eslint语法检查器。
-> 2020.2.6 增加了修复原来的警告错误和无法加载vuetools的问题
+
+> 2020.2.6 关闭修复原来的警告错误和修复了无法加载vuetools的问题
+
+克隆我的仓库后
+```cmd
+git clone 
+```
 
 #### 你可以按照下面的命令使用
 
@@ -17,7 +23,6 @@ npm run build
 
 # run unit & end-to-end tests
 npm test
-
 
 ```
 
